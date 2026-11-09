@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+documentos_base/*.xlsx
+entrada/*.xlsx
+salida/*.xlsx
+**/~$*.xlsx
